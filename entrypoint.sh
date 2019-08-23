@@ -1,3 +1,3 @@
 #!/bin/sh -l
 
-sh -c "kubeval $*"
+sh -c "kubeval $INPUT_PARAMS"
