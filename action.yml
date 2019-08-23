@@ -1,0 +1,5 @@
+name: 'kubeval'
+description: 'kubeval k8s files'
+inputs:
+  files:
+    description: 'files to validate'
