@@ -1,4 +1,4 @@
-name: 'kubeval'
+name: 'dipshit/kubeval'
 description: 'validate k8s files with kubeval'
 inputs:
   params:
