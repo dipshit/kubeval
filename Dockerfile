@@ -8,4 +8,3 @@ LABEL "com.github.actions.color"="purple"
 WORKDIR /home/kubeval
 ADD entrypoint.sh /entrypoint.sh
 ENTRYPOINT ["/entrypoint.sh"]
-CMD ["help"]
