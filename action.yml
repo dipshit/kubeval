@@ -3,3 +3,5 @@ description: 'validate k8s files with kubeval'
 inputs:
   params:
     description: 'params to pass to kubeval'
+runs:
+  image: 'Dockerfile'
