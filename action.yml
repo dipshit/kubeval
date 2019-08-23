@@ -4,4 +4,5 @@ inputs:
   params:
     description: 'params to pass to kubeval'
 runs:
+  using: 'docker'
   image: 'Dockerfile'
