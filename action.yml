@@ -1,5 +1,9 @@
 name: 'dipshit/kubeval'
+author: 'dipshit'
 description: 'validate k8s files with kubeval'
+branding:
+  icon: 'anchor'
+  color: 'blue'
 inputs:
   params:
     description: 'params to pass to kubeval'
