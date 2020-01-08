@@ -23,3 +23,7 @@ jobs:
       with:
         params: 'k8s/*'
 ```
+
+## Example
+
+I use this for my minecraft server, see another example use [here.](https://github.com/dipshit/minecraft/blob/master/.github/workflows/kubeval.yml)
